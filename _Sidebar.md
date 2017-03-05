@@ -14,7 +14,7 @@
 ### **Services**  
 [Boxcar](https://github.com/kvangent/PokeAlarm/wiki/Boxcar)  
 [Discord](https://github.com/kvangent/PokeAlarm/wiki/Discord)  
-[Facebook Pages](https://github.com/kvangent/PokeAlarm/wiki/Facebook-Pages)
+[Facebook Page](https://github.com/kvangent/PokeAlarm/wiki/Facebook-Pages)  
 [Pushbullet](https://github.com/kvangent/PokeAlarm/wiki/Pushbullet)  
 [Pushover](https://github.com/kvangent/PokeAlarm/wiki/Pushover)  
 [Slack](https://github.com/kvangent/PokeAlarm/wiki/Slack)  
